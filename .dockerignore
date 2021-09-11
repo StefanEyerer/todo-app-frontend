@@ -1,0 +1,10 @@
+.DS_Store
+.github
+.gitlab
+.husky
+build
+node_modules
+.dockerignore
+.env
+.env_example
+Dockerfile
